@@ -14,7 +14,8 @@
 
 body {
     font-family: var(--font-roboto);
-    background-color: #212426;
+    background: url('moviebg.jpeg');
+    background-size: cover;
 }
 
 .app {
